@@ -1,3 +1,2 @@
 # bhuvan454.github.io
-
-this is portfolio
+nothing to  sneak here. just my portfolio templates
